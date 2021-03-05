@@ -1,0 +1,136 @@
+{
+  "items": [
+    {
+      "item": "candle",
+      "label": "Candle",
+      "evidenceFinder": false,
+      "hasBatteries": false
+    },
+    {
+      "item": "crucifix",
+      "label": "Crucifix",
+      "evidenceFinder": false,
+      "hasBatteries": false
+    },
+    {
+      "item": "emf",
+      "label": "EMF Reader",
+      "evidenceFinder": true,
+      "hasBatteries": true
+    },
+    {
+      "item": "flashlight",
+      "label": "Flashlight",
+      "evidenceFinder": false,
+      "hasBatteries": true
+    },
+    {
+      "item": "strongFlashlight",
+      "label": "Strong Flashlight",
+      "evidenceFinder": false,
+      "hasBatteries": true
+    },
+    {
+      "item": "book",
+      "label": "Ghost Writing Book",
+      "evidenceFinder": true,
+      "hasBatteries": false
+    },
+    {
+      "item": "glowstick",
+      "label": "Glowstick",
+      "evidenceFinder": true,
+      "hasBatteries": false
+    },
+    {
+      "item": "headMountedCamera",
+      "label": "Head-Mounted Camera",
+      "evidenceFinder": true,
+      "hasBatteries": true
+    },
+    {
+      "item": "infrared",
+      "label": "Infrared Sensor",
+      "evidenceFinder": false,
+      "hasBatteries": true
+    },
+    {
+      "item": "lighter",
+      "label": "Lighter",
+      "evidenceFinder": false,
+      "hasBatteries": false
+    },
+    {
+      "item": "motion",
+      "label": "Motion Sensor",
+      "evidenceFinder": false,
+      "hasBatteries": true
+    },
+    {
+      "item": "paramic",
+      "label": "Parabolic Microphone",
+      "evidenceFinder": false,
+      "hasBatteries": true
+    },
+    {
+      "item": "photo",
+      "label": "Photo Camera",
+      "evidenceFinder": false,
+      "hasBatteries": true
+    },
+    {
+      "item": "salt",
+      "label": "Salt",
+      "evidenceFinder": false,
+      "hasBatteries": false
+    },
+    {
+      "item": "pills",
+      "label": "Sanity Pills",
+      "evidenceFinder": false,
+      "hasBatteries": false
+    },
+    {
+      "item": "smudge",
+      "label": "Smudge Sticks",
+      "evidenceFinder": false,
+      "hasBatteries": false
+    },
+    {
+      "item": "sound",
+      "label": "Sound Sensor",
+      "evidenceFinder": false,
+      "hasBatteries": true
+    },
+    {
+      "item": "box",
+      "label": "Spirit Box",
+      "evidenceFinder": true,
+      "hasBatteries": true
+    },
+    {
+      "item": "thermometer",
+      "label": "Thermometer",
+      "evidenceFinder": true,
+      "hasBatteries": true
+    },
+    {
+      "item": "tripod",
+      "label": "Tripod",
+      "evidenceFinder": false,
+      "hasBatteries": false
+    },
+    {
+      "item": "uv",
+      "label": "UV Light",
+      "evidenceFinder": true,
+      "hasBatteries": true
+    },
+    {
+      "item": "video",
+      "label": "Video Camera",
+      "evidenceFinder": true,
+      "hasBatteries": true
+    }
+  ]
+}

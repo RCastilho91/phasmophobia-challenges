@@ -1,0 +1,28 @@
+{
+  "challenges": [
+    {
+      "challenge": "19th Century Challenge",
+      "author": "Orlando Guarnier",
+      "authorSocial": "none",
+      "description": "Go back to the 1800's in this challenge. You must only carry items a Victorian-era hunter would!",
+      "itemsAllowed": ["candle", "book", "smudge", "crucifix", "lighter", "salt"],
+      "initialItemsAllowed": ["candle", "book", "smudge", "crucifix", "lighter", "salt"]
+    },
+    {
+      "challenge": "Photo Randomizer",
+      "author": "Insym",
+      "authorSocial": "https://www.twitch.tv/insym",
+      "description": "You're initially allowed a Photo Camera and a flashlight. Nothing else! Every photo that is successfully tagged in the evidence book will give you a random item, limited to 2 photos per type (max 2 interaction photos, 2 fingerprints, etc). Objectives also provide you with a random item. Ghost photo is worth 2 items!\nImportant note: accessory items don't mean the main items have been obtained. If you get a tripod, for example, it doesn't mean you can also take the video camera and vice-versa",
+      "itemsAllowed": "all",
+      "initialItemsAllowed": ["photo", "flashlight", "strongFlashlight"]
+    },
+    {
+      "challenge": "Evidence Elimination",
+      "author": "Insym",
+      "authorSocial": "https://www.twitch.tv/insym",
+      "description": "You're initially allowed to use every item. Once you discover the ghost this round, you're not allowed to use its evidence the next one. For example: you identified your current ghost as being a Spirit, therefore UV Lights, Spirit Box and Ghost Writing Book are no longer allowed for your next investigation.",
+      "itemsAllowed": "special",
+      "initialItemsAllowed": "special"
+    }
+  ]
+}
